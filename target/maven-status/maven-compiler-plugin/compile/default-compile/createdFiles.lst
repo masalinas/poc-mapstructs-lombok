@@ -1,0 +1,9 @@
+io/oferto/poc_mapstruct_lombok/controller/UserController.class
+io/oferto/poc_mapstruct_lombok/dto/UserDTO.class
+io/oferto/poc_mapstruct_lombok/domain/User.class
+io/oferto/poc_mapstruct_lombok/mapper/UserMapperImpl.class
+io/oferto/poc_mapstruct_lombok/service/UserService.class
+io/oferto/poc_mapstruct_lombok/PocMapstructLombokApplication.class
+io/oferto/poc_mapstruct_lombok/dto/UserDTO$UserDTOBuilder.class
+io/oferto/poc_mapstruct_lombok/domain/User$UserBuilder.class
+io/oferto/poc_mapstruct_lombok/mapper/UserMapper.class

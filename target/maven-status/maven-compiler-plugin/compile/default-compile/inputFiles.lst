@@ -1,0 +1,6 @@
+/home/miguel/git/poc-mapstructs-lombok/src/main/java/io/oferto/poc_mapstruct_lombok/PocMapstructLombokApplication.java
+/home/miguel/git/poc-mapstructs-lombok/src/main/java/io/oferto/poc_mapstruct_lombok/controller/UserController.java
+/home/miguel/git/poc-mapstructs-lombok/src/main/java/io/oferto/poc_mapstruct_lombok/domain/User.java
+/home/miguel/git/poc-mapstructs-lombok/src/main/java/io/oferto/poc_mapstruct_lombok/dto/UserDTO.java
+/home/miguel/git/poc-mapstructs-lombok/src/main/java/io/oferto/poc_mapstruct_lombok/mapper/UserMapper.java
+/home/miguel/git/poc-mapstructs-lombok/src/main/java/io/oferto/poc_mapstruct_lombok/service/UserService.java
