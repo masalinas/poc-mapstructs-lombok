@@ -1,2 +1,2 @@
-# poc-mapstruct-lombok
-PoC SpringBoot service with Mapstruct with Lombok
+# Description
+PoC SpringBoot service with Mapstructs with Lombok integrated
