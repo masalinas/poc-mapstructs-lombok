@@ -11,7 +11,7 @@
 	</parent>
 	
 	<groupId>io.oferto</groupId>
-	<artifactId>poc-mapstruct-lombok</artifactId>
+	<artifactId>poc-mapstructs-lombok</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	
 	<name>poc-mapstruct-lombok</name>
